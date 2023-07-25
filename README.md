@@ -1,5 +1,7 @@
 # QVM-ocaml-mini
 
+Based on Robert Smith's: [__A tutorial quantum interpreter in 150 lines of Lisp__](https://www.stylewarning.com/posts/quantum-interpreter/)
+
 ```text
 $ dune exec mini_qvm
 bell(0,1):
