@@ -1,0 +1,4 @@
+(library
+ (name mini_qvm)
+ (preprocess (pps ppx_deriving.show))
+ (libraries batteries owl))

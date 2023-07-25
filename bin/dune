@@ -1,0 +1,4 @@
+(executable
+ (public_name mini_qvm)
+ (name main)
+ (libraries mini_qvm))
